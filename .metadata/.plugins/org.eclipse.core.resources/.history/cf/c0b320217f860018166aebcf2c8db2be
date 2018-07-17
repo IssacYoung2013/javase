@@ -1,0 +1,13 @@
+package com.feiyangedu.sample;
+
+import java.io.FilterInputStream;
+import java.io.InputStream;
+
+public class CountInputStream extends FilterInputStream {
+	
+	private int count;
+	
+	public CountInputStream(InputStream in) {
+		super(in);
+	}
+}

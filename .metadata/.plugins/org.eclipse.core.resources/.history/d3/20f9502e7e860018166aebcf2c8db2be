@@ -1,0 +1,8 @@
+package com.feiyangedu.sample;
+
+import java.io.FilterInputStream;
+
+public class CountInputStream extends FilterInputStream {
+	
+
+}

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1531372743371
+Build-Jdk: 9.0.1
+Built-By: Administrator
+Bundle-Description: Apache Commons Compress software defines an API for 
+ working withcompression and archive formats.These include: bzip2, gzip,
+  pack200, lzma, xz, Snappy, traditionalUnix Compress, DEFLATE and ar, c
+ pio, jar, tar, zip, dump, 7z, arj.
+Bundle-DocURL: http://commons.apache.org/proper/commons-compress/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons Compress
+Bundle-SymbolicName: org.apache.commons.compress
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 1.9.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.tukaani.xz;resolution:=optional
+Tool: Bnd-2.1.0.20130426-122213

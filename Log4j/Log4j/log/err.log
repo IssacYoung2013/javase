@@ -1,0 +1,6 @@
+07-11 17:39:37.555 [main] ERROR com.feiyangedu.main.Main
+Error when create person.
+
+java.lang.IllegalArgumentException: name is null.
+	at com.feiyangedu.sample.Person.<init>(Person.java:14) ~[bin/:?]
+	at com.feiyangedu.main.Main.main(Main.java:19) [bin/:?]

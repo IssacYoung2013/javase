@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringFormatTest" project="StreamPractice" tests="3" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.feiyangedu.sample.StringFormatTest" incomplete="true">
+    <testcase name="testHasEmptyString" classname="com.feiyangedu.sample.StringFormatTest" incomplete="true"/>
+    <testcase name="testHasNull" classname="com.feiyangedu.sample.StringFormatTest" incomplete="true"/>
+    <testcase name="testWorlds" classname="com.feiyangedu.sample.StringFormatTest" incomplete="true"/>
+  </testsuite>
+</testrun>
